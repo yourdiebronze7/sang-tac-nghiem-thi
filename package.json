@@ -1,0 +1,26 @@
+{
+  "name": "sang-tac-nghiem-thi",
+  "version": "1.0.0",
+  "description": "Ứng dụng học tập sử dụng blockchain để quản lý kết quả thi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo 'Error: no test specified' && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.10",
+    "web3": "^1.3.5",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/username/sang-tac-nghiem-thi.git"
+  },
+  "keywords": ["blockchain", "education", "results"],
+  "author": "Your Name",
+  "license": "MIT"
+}
